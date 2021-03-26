@@ -53,6 +53,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
+            'how-to-contribute',
           ],
         }
       ],
