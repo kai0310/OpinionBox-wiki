@@ -1,0 +1,19 @@
+{
+  "name": "OpinionBox-wiki",
+  "version": "0.0.1",
+  "description": "This is OpinionBox wiki :)",
+  "main": "index.js",
+  "authors": {
+    "name": "kai0310",
+    "email": "kn0310@outlook.jp"
+  },
+  "repository": "kai0310/OpinionBox-wiki/OpinionBox-wiki",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
