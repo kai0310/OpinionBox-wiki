@@ -42,6 +42,10 @@ module.exports = {
         link: '/guide/'
       },
       {
+        text: 'New Features',
+        link: '/new-features/'
+      },
+      {
         text: 'GitHub',
         link: 'https://github.com/kai0310/OpinionBox'
       }
