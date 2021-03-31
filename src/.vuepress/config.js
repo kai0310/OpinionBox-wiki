@@ -63,6 +63,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
+            'post-opinion',
             'account',
           ]
         }
