@@ -1,6 +1,6 @@
 # Quickstart
 
-## Install OpinionBox
+## z OpinionBox
 
 It is recommended to use Laravel Sail as the development environment.
 
@@ -9,7 +9,10 @@ $ git clone https://github.com/kai0310/OpinionBox.git
 $ cd OpinionBox
 
 $ composer install
-$ ./vendor/bin/sail up -d
+$ composer sail:up
+
+# If you want run artisan command,
+# plz enter the `./vendor/bin/sail` before artisan command.
 ```
 
 Let's get access [http://localhost](http://localhost)
